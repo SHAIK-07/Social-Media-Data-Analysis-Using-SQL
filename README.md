@@ -1,5 +1,4 @@
-# Social-Media-Data-Analysis-Using-SQL
-This project showcases an in-depth analysis of a social media platform’s dataset using SQL. The dataset includes various entities such as users, posts, hashtags, comments, and interactions like likes, follows, and bookmarks.The goal is to explore user engagement, content popularity, and interaction patterns within the platform, helping to uncover insights into user behavior and platform trends. Through a series of SQL queries ranging from basic to advanced, this analysis demonstrates how relational databases can provide valuable insights for social media data.
+
 
 # Social Media Data Analysis Using SQL
 
